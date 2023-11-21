@@ -30,7 +30,6 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2019-present Evan You'
     },
-
     search: {
       provider: 'algolia',
       options: {
@@ -39,7 +38,6 @@ export default defineConfig({
         indexName: 'vitepress'
       }
     },
-
     carbonAds: {
       code: 'CEBDT27Y',
       placement: 'vuejsorg'
